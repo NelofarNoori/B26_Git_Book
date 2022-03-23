@@ -1,0 +1,7 @@
+So far we learned git
+commit --> push
+
+and
+
+remote -- > local
+pull/ update
